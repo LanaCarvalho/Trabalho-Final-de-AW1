@@ -1,0 +1,89 @@
+body{background-color:#FF1493; font-family: Verdana; text-align: center; font-size: 20px;}
+
+#div-1{display:block; text-align:center; background-color:#C71585;}
+
+#div-2{
+    display:inline-block; font-size:20px; 
+    text-align:center; font-weight:bold; 
+    width:350px; padding:12px; background-color: #FF00FF;
+}
+
+.quiz1{
+    color: black;
+}
+
+#div-3{
+    display:inline-block; font-size:20px;
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #FF00FF;
+}
+
+.quiz2{
+    color: black;
+}
+
+
+#div-4{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #FF00FF;
+}
+
+.quiz3{
+    color: black;
+}
+
+
+#div-5{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #FF00FF;
+}
+
+.quiz4{
+    color: black;
+}
+
+
+#div-6{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #FF00FF;
+}
+
+.quiz5{
+    color: black;
+}
+
+
+#div-7{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:352px; padding:12px; background-color: #FF00FF;
+}
+
+.quiz6{
+    color: black;
+}
+
+
+#div-8{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:292px; padding:12px; background-color: #FF00FF;
+}
+
+.quiz7{
+    color: black;
+}
+
+
+#div-9{
+    display:inline-block; font-size:20px; 
+    text-align:center; color: black; font-weight:bold; 
+    width:229px; padding:12px; background-color: #FF00FF;
+}
+
+.quiz8{
+    color: black;
+}
